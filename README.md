@@ -23,6 +23,8 @@ Computer Networking: A Top-Down Approach by Jim Kurose - https://gaia.cs.umass.e
 
 Pfsense Tutorials [YouTube Playlist] - https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o
 
+AWS Training & Certification - https://aws.amazon.com/training/
+
 ## Certifications
 
 ### CompTIA Security+ SY0-601
