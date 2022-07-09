@@ -31,11 +31,13 @@ Vulnhub - https://www.vulnhub.com/ - _A provider of vulnerable vm images that yo
 
 Imperva - https://www.imperva.com/learn/ - _A large collection of articles on a number of topics important to InfoSec.
 
-## News & Breaking Attacks/CVEs
+## News, Breaking Attacks/CVEs, and Exploit Databases
 
-DoD Cyber Exchange - https://public.cyber.mil/
+CVE - https://cve.mitre.org/ - _This is MITRE's official CVE website._
 
-CVE - https://cve.mitre.org/ 
+DoD Cyber Exchange - https://public.cyber.mil/ - _Updates and training from the Department of Defense._
+
+Exploit Database - https://www.exploit-db.com/ - _This is Offensive Security's exploit database._ 
 
 ## Attacks
 These are resources teaching you about the various kinds of attacks you might see or use in cybersecurity.
@@ -43,8 +45,6 @@ These are resources teaching you about the various kinds of attacks you might se
 ### SQL Injection
 
 SQL Injection Attacks - Explained in 5 Minutes by Paul Browning - https://youtu.be/FHCTfA9cCXs
-
-
 
 ## Certifications
 
@@ -103,6 +103,12 @@ Onionshare - https://github.com/micahflee/onionshare - _Securely and anonymously
 Ping Castle - https://pingcastle.com/ - _An Active Directory network testing tool._ 
 
 Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
+
+## Vulnerability Scanners 
+
+Burp Suite - https://portswigger.net/burp
+
+Nessus - https://www.tenable.com/products/nessus
 
 # Services 
 
