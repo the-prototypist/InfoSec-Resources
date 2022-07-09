@@ -13,6 +13,12 @@ WebSploit - https://websploit.org/ - _WebSploit Labs is a learning environment c
 
 RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
 
+## Collections
+These are larger collections of resources that help walk you through a specific topic. 
+
+Teach Yourself InfoSec - https://teachyourselfinfosec.com/ 
+Teach Yourself Computer Science - https://teachyourselfcs.com/
+
 ## Networking
 
 The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
