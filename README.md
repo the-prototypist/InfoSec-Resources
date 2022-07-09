@@ -7,24 +7,38 @@ These links lead to learning material so that you can become more educated in th
 ## Structured Education & Labs
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec. These are non-specific educational resources within the field of cybersecurity. 
 
-https://www.hacksplaining.com/ - _Security training for developers._
+Hacksplaining - https://www.hacksplaining.com/ - _Security training for developers._
   
-  
-https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
+WebSploit - https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
 
-https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
+RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
 
 ## Networking
 
-https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/ - The 7 layers of the OSI Model Explained
+The 7 layers of the OSI Model Explained [Blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
 
-https://www.keyfactor.com/blog/types-of-digital-certificates/ - Types of Digital Certificates
+Types of Digital Certificates [blog] - https://www.keyfactor.com/blog/types-of-digital-certificates/
+
+Computer Networking: A Top-Down Approach by Jim Kurose - https://gaia.cs.umass.edu/kurose_ross/lectures.php
+
+Pfsense Tutorials [YouTube Playlist] - https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o
 
 ## Certifications
 
 ### CompTIA Security+ SY0-601
 
-https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 - _Professor Messer's YouTube playlist._
+Professor Messer's CompTIA Security+ SY0-601 Training Course - https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 - 
+
+### CompTIA Network+ 
+
+CompTIA Network+ Certification Video Course -  https://youtu.be/vrh0epPAC5w - 
+
+Professor Messer’s CompTIA N10-007 Network+ Course - https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/
+
+### CCNA
+
+https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ - _Free CCNA 200-301 | Complete Course 2022_
+
 
 
 
@@ -33,15 +47,13 @@ These links lead to various tools you can use once you've learned all you can fr
 
 ## Networking 
 
-https://github.com/bettercap/bettercap - _The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks._
+Bettercap - https://github.com/bettercap/bettercap - _The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks._
 
-https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
+Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
 
-https://github.com/micahflee/onionshare - _Securely and anonymously share files, host websites, and chat with friends using the Tor network - micahflee/onionshare._
+Onionshare - https://github.com/micahflee/onionshare - _Securely and anonymously share files, host websites, and chat with friends using the Tor network - micahflee/onionshare._
 
-https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o - _A pfSense tutorial playlist on YouTube._
-
-https://pingcastle.com/ - _An Active Directory network testing tool._ 
+Ping Castle - https://pingcastle.com/ - _An Active Directory network testing tool._ 
 
 
 
