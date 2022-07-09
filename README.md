@@ -4,6 +4,7 @@ This is a collection of resources I've gathered around the various topics within
 These will be listed in the following layout: 
 - Education
 - Tools
+- Services
 - Miscellaneous
 
 Therein, with the exception of the Collections, Structured Education & Labs, and News sections which remain at the top, each section will be presented in alphabetical order. 
