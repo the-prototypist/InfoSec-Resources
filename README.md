@@ -130,9 +130,23 @@ AWS Training & Certification - https://aws.amazon.com/training/
 
 NMAP - https://nmap.org/book/ - The official book that will teach you to use the well known tool, NMAP.
 
-## AWS 
+### AWS 
 
 flAWS - http://flaws.cloud/ - An AWS-focused CTF style learning environment. 
+
+## Operating Systems
+
+### Android
+
+### iOS
+
+### Linux 
+
+Linux Journey - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for free._
+
+### MacOS
+
+### Windows
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
@@ -154,20 +168,6 @@ Onionshare - https://github.com/micahflee/onionshare - _Securely and anonymously
 Ping Castle - https://pingcastle.com/ - _An Active Directory network testing tool._ 
 
 Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
-
-## Operating Systems
-
-### Android
-
-### iOS
-
-### Linux 
-
-Linux Journey - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for free._
-
-### MacOS
-
-### Windows
 
 ## Vulnerability Scanners 
 
