@@ -135,7 +135,7 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ## Networking & Cloud
 
-**The 7 layers of the OSI Model Explained **[blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
+**The 7 layers of the OSI Model Explained** [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
 
 **Types of Digital Certificates** [blog] - https://www.keyfactor.com/blog/types-of-digital-certificates/
 
