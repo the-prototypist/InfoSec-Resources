@@ -2,7 +2,7 @@
 This is a collection of resources I've gathered around the various topics within the field of information and cyber security. If this is something you'd like to contribute a resource to, please join our discord! https://discord.gg/74gD2yV6UC
 
 These will be listed in the following layout: 
-- Education
+- [Education](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#education)
 - Tools
 - Services
 - Miscellaneous
