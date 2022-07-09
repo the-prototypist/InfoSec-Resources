@@ -18,6 +18,13 @@ https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from 
 
 https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/ - The 7 layers of the OSI Model Explained
 
+https://www.keyfactor.com/blog/types-of-digital-certificates/ - Types of Digital Certificates
+
+## Certifications
+
+### CompTIA Security+ SY0-601
+
+https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 - _Professor Messer's YouTube playlist._
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
@@ -33,3 +40,6 @@ https://github.com/micahflee/onionshare - _Securely and anonymously share files,
 https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o - _A pfSense tutorial playlist on YouTube._
 
 https://pingcastle.com/ - _An Active Directory network testing tool._ 
+
+
+
