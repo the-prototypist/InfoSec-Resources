@@ -30,9 +30,13 @@ Federal Virtual Training Environment - https://fedvte.usalearning.gov/public_fed
 
 Fortinet Free Cybersecurity Training - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
 
-Hackxor - https://hackxor.net/ - _A gamified CTF style learning environment for would-be hackers.
-_
+Fullstack Academy - https://prep.fullstackacademy.com/ - _The first 25 hours of their [Fullstack Cyber Bootcamp](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp) has been made free. _
+
+Hackersploit - https://hackersploit.org/ - _Pentesting & Red Team Training._
+
 Hacksplaining - https://www.hacksplaining.com/ - _Security training for developers._
+
+Hackxor - https://hackxor.net/ - _A gamified CTF style learning environment for would-be hackers._
 
 IBM Security Learning Academy - https://www.securitylearningacademy.com/ - _Free technical training for IBM Security products. _
 
@@ -42,11 +46,13 @@ Imperva - https://www.imperva.com/learn/ - _A large collection of articles on a 
 
 International Cybersecurity Institute - https://icsiglobal.com/ - _Certification-based training and bootcamps._
 
-M.E. Kabay - http://www.mekabay.com/courses/index.htm -_ Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures._
+M.E. Kabay - http://www.mekabay.com/courses/index.htm -_ _Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures.__
 
 Microsoft CISO Workshop - https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop - _The Chief Information Security Office (CISO) workshop contains a collection of security learnings, principles, and recommendations for modernizing security in your organization._
 
 Mosse Cyber Security Institute - https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html - _Introduction to cybersecurity free certification with 100+ hours of training._
+
+NetInstruct - https://netinstruct.com/courses - _Free cybersecurity, IT, and leadership courses._
 
 Pluralsight - https://www.pluralsight.com/ - _An online educator focused on tech topics._
 
@@ -56,10 +62,17 @@ RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber re
 
 Roppers Academy - https://www.hoppersroppers.org/training.html - _Community built around a series of free courses that provide training to beginners in the security field._
 
+Ryan's Tutorials - https://ryanstutorials.net/ - _A collection of widely ranging tech tutorials. _
+
+SANS Cheat Sheats - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - _SANS has a massive list of Cheat Sheets available for quick reference._
+
 WebSploit - https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
 
 Vulnhub - https://www.vulnhub.com/ - _A provider of vulnerable vm images that you can set up in your own homelab._
 
+### Open University Courses 
+
+CS 253 Web Security from Standford - https://web.stanford.edu/class/cs253/
 
 ## News, Breaking Attacks/CVEs, and Exploit Databases
 
@@ -116,6 +129,10 @@ Juniper Learning Portal - https://learningportal.juniper.net/juniper/user_activi
 
 HMAC [Wiki] - https://en.wikipedia.org/wiki/HMAC
 
+## Employment Resources 
+
+Choose Your Own Cyber Adventure Series: Entry Level Cyber Jobs Explained [YouTube Playlist] - https://www.youtube.com/playlist?list=PL4Q-ttyNIRAqog96mt8C8lKWzTjW6f38F
+
 ## Networking & Cloud
 
 The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
@@ -146,7 +163,13 @@ Linux Journey - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for fre
 
 ### MacOS
 
+macOS User Guide - https://support.apple.com/guide/mac-help/welcome/mac - _The official guide from Apple on macOS._
+
 ### Windows
+
+## Threat Intelligence 
+
+Shadowscape Cyber Intelligence Analystics & Operations - https://www.shadowscape.io/cyber-intelligence-analytics-operat
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
