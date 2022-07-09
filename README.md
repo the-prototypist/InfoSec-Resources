@@ -7,7 +7,7 @@ These will be listed in the following layout:
 - [Services](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#services)
 - [Miscellaneous](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#miscellaneous)
 
-Therein, with the exception of the Collections, Structured Education & Labs, and News sections which remain at the top, each section will be presented in alphabetical order. 
+Therein, with the exception of the Collections, Training & Labs, and News sections which remain at the top, each section will be presented in alphabetical order. 
 
 # Education
 These links lead to learning material so that you can become more educated in the subjects therein.
@@ -19,20 +19,55 @@ Teach Yourself InfoSec - https://teachyourselfinfosec.com/
 
 Teach Yourself Computer Science - https://teachyourselfcs.com/
 
-## Structured Education & Labs
-These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec. These are non-specific educational resources within the field of cybersecurity. 
+## Training & Labs
+These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec.
 
+BugCrowd University - https://www.bugcrowd.com/hackers/bugcrowd-university/ - _Free bug hunting resources and methodologies in form of webinars, education and training._
+
+Cisco Virtual Academy - https://www.netacad.com/courses/cybersecurity - _Training from Cisco on Cybersecurity, though through the site you can gain access to other topics as well._
+
+Clark Center - https://clark.center/home -  _Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments._
+
+Federal Virtual Training Environment - https://fedvte.usalearning.gov/public_fedvte.php - _A publicly available selection of courses made available by the US Government. _
+
+Fortinet Free Cybersecurity Training - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
+
+Hacker101 - https://www.hacker101.com/ - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
+
+Hackxor - https://hackxor.net/ - _A gamified CTF style learning environment for would-be hackers.
+_
 Hacksplaining - https://www.hacksplaining.com/ - _Security training for developers._
-  
-WebSploit - https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
 
-RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
+IBM Security Learning Academy - https://www.securitylearningacademy.com/ - _Free technical training for IBM Security products. _
 
-Vulnhub - https://www.vulnhub.com/ - _A provider of vulnerable vm images that you can set up in your own homelab._
+IBM SkillsBuild - https://skillsbuild.org/students - _Free courses within cybersecurity and related fields._
 
 Imperva - https://www.imperva.com/learn/ - _A large collection of articles on a number of topics important to InfoSec.
 
+International Cybersecurity Institute - https://icsiglobal.com/ - _Certification-based training and bootcamps._
+
+M.E. Kabay - http://www.mekabay.com/courses/index.htm -_ Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures._
+
+Microsoft CISO Workshop - https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop - _The Chief Information Security Office (CISO) workshop contains a collection of security learnings, principles, and recommendations for modernizing security in your organization._
+
+Mosse Cyber Security Institute - https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html - _Introduction to cybersecurity free certification with 100+ hours of training._
+
+Pluralsight - https://www.pluralsight.com/ - _An online educator focused on tech topics._
+
+Port Swigger's WebSecurity Academy - https://portswigger.net/web-security -_ _Free online web security training from the creators of [Burp Suite](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#vulnerability-scanners).__
+
+RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
+
+Roppers Academy - https://www.hoppersroppers.org/training.html - _Community built around a series of free courses that provide training to beginners in the security field._
+
+WebSploit - https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
+
+Vulnhub - https://www.vulnhub.com/ - _A provider of vulnerable vm images that you can set up in your own homelab._
+
+
 ## News, Breaking Attacks/CVEs, and Exploit Databases
+
+Black Hat Webinars - https://www.blackhat.com/html/webcast/webcast-home.html - A regular series of live web events focusing on what's hot in Information Security. 
 
 CVE - https://cve.mitre.org/ - _This is MITRE's official CVE website._
 
@@ -40,8 +75,12 @@ DoD Cyber Exchange - https://public.cyber.mil/ - _Updates and training from the 
 
 Exploit Database - https://www.exploit-db.com/ - _This is Offensive Security's exploit database._ 
 
-## Attacks
+## Attacks & Attack Frameworks
 These are resources teaching you about the various kinds of attacks you might see or use in cybersecurity.
+
+Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed/ - _The most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book._
+
+MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training - https://attack.mitre.org/resources/training/cti/ 
 
 ### SQL Injection
 
@@ -92,6 +131,13 @@ NMAP - https://nmap.org/book/ - The official book that will teach you to use the
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
+
+## Attack Frameworks & Collections
+
+Metasploit - https://www.metasploit.com/ - _The world’s most used penetration testing framework._
+
+SANS Faculty Free Tools - https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp - A collection of free tools created by SANS instructors. 
+
 
 ## Networking 
 
