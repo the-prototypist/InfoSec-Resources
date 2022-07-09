@@ -23,7 +23,6 @@ DoD Cyber Exchange - https://public.cyber.mil/
 
 CVE - https://cve.mitre.org/ 
 
--
 ## Collections
 These are larger collections of resources that help walk you through a specific topic. 
 
@@ -31,7 +30,6 @@ Teach Yourself InfoSec - https://teachyourselfinfosec.com/
 
 Teach Yourself Computer Science - https://teachyourselfcs.com/
 
--
 ## Networking
 
 The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
@@ -44,31 +42,26 @@ Pfsense Tutorials [YouTube Playlist] - https://www.youtube.com/playlist?list=PLj
 
 AWS Training & Certification - https://aws.amazon.com/training/
 
--
 ## Cryptography 
 
 HMAC [Wiki] - https://en.wikipedia.org/wiki/HMAC
 
--
 ## Certifications
 
 ### CompTIA Security+ SY0-601
 
 Professor Messer's CompTIA Security+ SY0-601 Training Course - https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 - 
 
--
 ### CompTIA Network+ 
 
 CompTIA Network+ Certification Video Course -  https://youtu.be/vrh0epPAC5w - 
 
 Professor Messer’s CompTIA N10-007 Network+ Course - https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/
 
--
 ### CCNA
 
 Free CCNA 200-301 | Complete Course 2022 by Jeremy's IT Lab. - https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 
--
 ### Microsoft
 
 Microsoft Learn - https://docs.microsoft.com/en-us/learn/certifications/
