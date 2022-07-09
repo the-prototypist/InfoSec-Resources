@@ -22,8 +22,6 @@ Teach Yourself Computer Science - https://teachyourselfcs.com/
 ## Training & Labs
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec.
 
-BugCrowd University - https://www.bugcrowd.com/hackers/bugcrowd-university/ - _Free bug hunting resources and methodologies in form of webinars, education and training._
-
 Cisco Virtual Academy - https://www.netacad.com/courses/cybersecurity - _Training from Cisco on Cybersecurity, though through the site you can gain access to other topics as well._
 
 Clark Center - https://clark.center/home -  _Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments._
@@ -31,8 +29,6 @@ Clark Center - https://clark.center/home -  _Free cybersecurity curriculum that 
 Federal Virtual Training Environment - https://fedvte.usalearning.gov/public_fedvte.php - _A publicly available selection of courses made available by the US Government. _
 
 Fortinet Free Cybersecurity Training - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
-
-Hacker101 - https://www.hacker101.com/ - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
 
 Hackxor - https://hackxor.net/ - _A gamified CTF style learning environment for would-be hackers.
 _
@@ -80,7 +76,13 @@ These are resources teaching you about the various kinds of attacks you might se
 
 Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed/ - _The most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book._
 
-MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training - https://attack.mitre.org/resources/training/cti/ 
+MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training - https://attack.mitre.org/resources/training/cti/
+
+## Bug Bounty 
+
+BugCrowd University - https://www.bugcrowd.com/hackers/bugcrowd-university/ - _Free bug hunting resources and methodologies in form of webinars, education and training._
+
+Hacker101 - https://www.hacker101.com/ - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
 
 ### SQL Injection
 
@@ -114,7 +116,7 @@ Juniper Learning Portal - https://learningportal.juniper.net/juniper/user_activi
 
 HMAC [Wiki] - https://en.wikipedia.org/wiki/HMAC
 
-## Networking
+## Networking & Cloud
 
 The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
 
@@ -128,6 +130,9 @@ AWS Training & Certification - https://aws.amazon.com/training/
 
 NMAP - https://nmap.org/book/ - The official book that will teach you to use the well known tool, NMAP.
 
+## AWS 
+
+flAWS - http://flaws.cloud/ - An AWS-focused CTF style learning environment. 
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
@@ -137,7 +142,6 @@ These links lead to various tools you can use once you've learned all you can fr
 Metasploit - https://www.metasploit.com/ - _The world’s most used penetration testing framework._
 
 SANS Faculty Free Tools - https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp - A collection of free tools created by SANS instructors. 
-
 
 ## Networking 
 
@@ -150,6 +154,20 @@ Onionshare - https://github.com/micahflee/onionshare - _Securely and anonymously
 Ping Castle - https://pingcastle.com/ - _An Active Directory network testing tool._ 
 
 Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
+
+## Operating Systems
+
+### Android
+
+### iOS
+
+### Linux 
+
+Linux Journey - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for free._
+
+### MacOS
+
+### Windows
 
 ## Vulnerability Scanners 
 
