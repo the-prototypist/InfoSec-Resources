@@ -15,7 +15,7 @@ RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber re
 
 ## Networking
 
-The 7 layers of the OSI Model Explained [Blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
+The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
 
 Types of Digital Certificates [blog] - https://www.keyfactor.com/blog/types-of-digital-certificates/
 
