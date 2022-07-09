@@ -3,9 +3,9 @@ This is a collection of resources I've gathered around the various topics within
 
 These will be listed in the following layout: 
 - [Education](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#education)
-- Tools
-- Services
-- Miscellaneous
+- [Tools](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#tools)
+- [Services](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#services)
+- [Miscellaneous](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#miscellaneous)
 
 Therein, with the exception of the Collections, Structured Education & Labs, and News sections which remain at the top, each section will be presented in alphabetical order. 
 
