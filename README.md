@@ -17,6 +17,7 @@ RangeForce - https://www.rangeforce.com/ - _RangeForce enables scalable cyber re
 These are larger collections of resources that help walk you through a specific topic. 
 
 Teach Yourself InfoSec - https://teachyourselfinfosec.com/ 
+
 Teach Yourself Computer Science - https://teachyourselfcs.com/
 
 ## Networking
