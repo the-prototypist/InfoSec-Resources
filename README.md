@@ -22,11 +22,11 @@ These are larger collections of resources that help walk you through a specific 
 ## Training & Labs
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec.
 
-**Cisco Virtual Academy** - https://www.netacad.com/courses/cybersecurity - _Training from Cisco on Cybersecurity, though through the site you can gain access to other topics as well._
+**Cisco Virtual Academy** - https://www.netacad.com/courses/cybersecurity - _Training from Cisco on cybersecurity, though through the site you can gain access to other topics as well._
 
 **Clark Center** - https://clark.center/home -  _Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments._
 
-**Federal Virtual Training Environment** - https://fedvte.usalearning.gov/public_fedvte.php - _A publicly available selection of courses made available by the US Government. _
+**Federal Virtual Training Environment** - https://fedvte.usalearning.gov/public_fedvte.php - _A publicly available selection of courses made available by the US Government._
 
 **Fortinet Free Cybersecurity Training** - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
 
