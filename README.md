@@ -1,8 +1,22 @@
 # InfoSec Resources and Tools
 This is a collection of resources I've gathered around the various topics within the field of information and cyber security. If this is something you'd like to contribute a resource to, please join our discord! https://discord.gg/74gD2yV6UC
 
+These will be listed in the following Layout: 
+- Education
+- Tools
+- Miscellaneous
+
+Therein, with the exception of the Collections, Structured Education & Labs, and News sections which remain at the top, each section will be presented in alphabetical order. 
+
 # Education
 These links lead to learning material so that you can become more educated in the subjects therein.
+
+## Collections
+These are larger collections of resources that help walk you through a specific topic. 
+
+Teach Yourself InfoSec - https://teachyourselfinfosec.com/ 
+
+Teach Yourself Computer Science - https://teachyourselfcs.com/
 
 ## Structured Education & Labs
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec. These are non-specific educational resources within the field of cybersecurity. 
@@ -23,28 +37,14 @@ DoD Cyber Exchange - https://public.cyber.mil/
 
 CVE - https://cve.mitre.org/ 
 
-## Collections
-These are larger collections of resources that help walk you through a specific topic. 
+## Attacks
+These are resources teaching you about the various kinds of attacks you might see or use in cybersecurity.
 
-Teach Yourself InfoSec - https://teachyourselfinfosec.com/ 
+### SQL Injection
 
-Teach Yourself Computer Science - https://teachyourselfcs.com/
+SQL Injection Attacks - Explained in 5 Minutes by Paul Browning - https://youtu.be/FHCTfA9cCXs
 
-## Networking
 
-The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
-
-Types of Digital Certificates [blog] - https://www.keyfactor.com/blog/types-of-digital-certificates/
-
-Computer Networking: A Top-Down Approach by Jim Kurose - https://gaia.cs.umass.edu/kurose_ross/lectures.php
-
-Pfsense Tutorials [YouTube Playlist] - https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o
-
-AWS Training & Certification - https://aws.amazon.com/training/
-
-## Cryptography 
-
-HMAC [Wiki] - https://en.wikipedia.org/wiki/HMAC
 
 ## Certifications
 
@@ -70,6 +70,25 @@ Microsoft Learn - https://docs.microsoft.com/en-us/learn/certifications/
 
 Juniper Learning Portal - https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=5798
 
+## Cryptography 
+
+HMAC [Wiki] - https://en.wikipedia.org/wiki/HMAC
+
+## Networking
+
+The 7 layers of the OSI Model Explained [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
+
+Types of Digital Certificates [blog] - https://www.keyfactor.com/blog/types-of-digital-certificates/
+
+Computer Networking: A Top-Down Approach by Jim Kurose - https://gaia.cs.umass.edu/kurose_ross/lectures.php
+
+Pfsense Tutorials [YouTube Playlist] - https://www.youtube.com/playlist?list=PLjGQNuuUzvmsuXCoj6g6vm1N-ZeLJso6o
+
+AWS Training & Certification - https://aws.amazon.com/training/
+
+NMAP - https://nmap.org/book/ - The official book that will teach you to use the well known tool, NMAP.
+
+
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
 
@@ -77,13 +96,44 @@ These links lead to various tools you can use once you've learned all you can fr
 
 Bettercap - https://github.com/bettercap/bettercap - _The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks._
 
-Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
+NMAP - https://nmap.org/download.html - _Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing._ 
 
 Onionshare - https://github.com/micahflee/onionshare - _Securely and anonymously share files, host websites, and chat with friends using the Tor network - micahflee/onionshare._
 
 Ping Castle - https://pingcastle.com/ - _An Active Directory network testing tool._ 
 
+Wifiphisher - https://github.com/wifiphisher/wifiphisher - _The Rogue Access Point Framework_
+
+# Services 
+
+## VPN
+
+Mullvad - https://mullvad.net/
+
+WindScribe - https://windscribe.com/
+
+ProtonVPN - https://protonvpn.com/
+
+Private Internet Access - https://www.privateinternetaccess.com/
+
+## SeedBox
+
+Ultra - https://ultra.cc/
+
+RapidSeedbox - https://www.rapidseedbox.com/
+
+Seedboxio - https://seedbox.io/
+
 # Miscellaneous
+
+## Operating Systems 
+
+Kali Linux - https://www.kali.org/downloads/
+
+Parrot Security - https://www.parrotsec.org/
+
+BlackArch - https://blackarch.org/
+
 
 ## Social Media
 These are some companies or individuals worth following on Social Media
@@ -92,5 +142,4 @@ These are some companies or individuals worth following on Social Media
 Excellent YouTube or other content creators. 
 
 thinQtank Learning - https://www.youtube.com/c/thinQtankS 
-
 
