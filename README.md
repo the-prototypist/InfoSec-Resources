@@ -26,6 +26,8 @@ https://www.keyfactor.com/blog/types-of-digital-certificates/ - Types of Digital
 
 https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 - _Professor Messer's YouTube playlist._
 
+
+
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
 
