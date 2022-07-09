@@ -1,7 +1,7 @@
 # InfoSec Resources and Tools
 This is a collection of resources I've gathered around the various topics within the field of information and cyber security. If this is something you'd like to contribute a resource to, please join our discord! https://discord.gg/74gD2yV6UC
 
-These will be listed in the following Layout: 
+These will be listed in the following layout: 
 - Education
 - Tools
 - Miscellaneous
