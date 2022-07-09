@@ -1,7 +1,7 @@
 # InfoSec-Resources
 This is a collection of resources I've gathered around the various topics within the field of information and cyber security. 
 
-# Education
+## Education
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec. These are non-specific educational resources within the field of cybersecurity. 
 
 https://www.hacksplaining.com/ - _Security training for developers._
