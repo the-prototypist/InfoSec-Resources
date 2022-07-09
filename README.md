@@ -37,10 +37,7 @@ Professor Messer’s CompTIA N10-007 Network+ Course - https://www.professormess
 
 ### CCNA
 
-https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ - _Free CCNA 200-301 | Complete Course 2022_
-
-
-
+Free CCNA 200-301 | Complete Course 2022 by Jeremy's IT Lab. - https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 
 # Tools
 These links lead to various tools you can use once you've learned all you can from the Education section above. 
