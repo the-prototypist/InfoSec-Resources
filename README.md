@@ -30,7 +30,7 @@ These are resources concerning learning objectives and educational resources int
 
 **Fortinet Free Cybersecurity Training** - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
 
-**Fullstack Academy** - https://prep.fullstackacademy.com/ - _The first 25 hours of their [Fullstack Cyber Bootcamp](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp) has been made free. _
+**Fullstack Academy** - https://prep.fullstackacademy.com/ - _The first 25 hours of their [Fullstack Cyber Bootcamp](https://www.fullstackacademy.com/programs/cybersecurity-bootcamp) has been made free._
 
 **Hackersploit** - https://hackersploit.org/ - _Pentesting & Red Team Training._
 
@@ -46,7 +46,7 @@ These are resources concerning learning objectives and educational resources int
 
 **International Cybersecurity Institute** - https://icsiglobal.com/ - _Certification-based training and bootcamps._
 
-**M.E. Kabay** - http://www.mekabay.com/courses/index.htm -_ _Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures.__
+**M.E. Kabay** - http://www.mekabay.com/courses/index.htm - _Free industry courses and course materials for students, teachers and others are welcome to use for free courses and lectures._
 
 **Microsoft CISO Workshop** - https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop - _The Chief Information Security Office (CISO) workshop contains a collection of security learnings, principles, and recommendations for modernizing security in your organization._
 
@@ -56,15 +56,17 @@ These are resources concerning learning objectives and educational resources int
 
 **Pluralsight** - https://www.pluralsight.com/ - _An online educator focused on tech topics._
 
-**Port Swigger's WebSecurity Academy** - https://portswigger.net/web-security -_ _Free online web security training from the creators of [Burp Suite](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#vulnerability-scanners).__
+**Port Swigger's WebSecurity Academy** - https://portswigger.net/web-security - _Free online web security training from the creators of [Burp Suite](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#vulnerability-scanners)._
 
 **RangeForce** - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
 
 **Roppers Academy** - https://www.hoppersroppers.org/training.html - _Community built around a series of free courses that provide training to beginners in the security field._
 
-**Ryan's Tutorials** - https://ryanstutorials.net/ - _A collection of widely ranging tech tutorials. _
+**Ryan's Tutorials** - https://ryanstutorials.net/ - _A collection of widely ranging tech tutorials._
 
 **SANS Cheat Sheats** - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/ - _SANS has a massive list of Cheat Sheets available for quick reference._
+
+**Security Blue Team** - https://securityblue.team/ - _Blue Team focused Labs & Training._
 
 **WebSploit** - https://websploit.org/ - _WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions._
 
