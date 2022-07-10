@@ -26,6 +26,8 @@ These are resources concerning learning objectives and educational resources int
 
 **Clark Center** - https://clark.center/home -  _Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments._
 
+**Cybrary** - https://www.cybrary.it/ - _An exhaustive selection of tech and cybersecurity related courses, including for certifications, attack tools, networking, operating systems, and more._
+
 **Federal Virtual Training Environment** - https://fedvte.usalearning.gov/public_fedvte.php - _A publicly available selection of courses made available by the US Government._
 
 **Fortinet Free Cybersecurity Training** - https://www.fortinet.com/training/cybersecurity-professionals - _Fortinet's courses on a myriad selection of topics within cybersecurity._
