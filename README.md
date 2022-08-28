@@ -95,6 +95,8 @@ These are resources teaching you about the various kinds of attacks you might se
 
 **MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training** - https://attack.mitre.org/resources/training/cti/
 
+**Herpaderpting** - A Detection Evasion Exploit - https://jxy-s.github.io/herpaderping/
+
 ## Bug Bounty 
 
 **BugCrowd University** - https://www.bugcrowd.com/hackers/bugcrowd-university/ - _Free bug hunting resources and methodologies in form of webinars, education and training._
