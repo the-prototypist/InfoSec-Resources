@@ -161,9 +161,15 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ### Android
 
+**scrcpy** [tool] - https://github.com/Genymobile/scrcpy - This tool lets you view and control your Android device on Windows, Linux, or macOS without root access. 
+
 ### iOS
 
 ### Linux 
+
+**Kali Linux Revealed** https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf - This is an entire book used for the Kali Linux Certified Professional certification by Offensive Security.
+
+**Kali Linux Tutorials** https://kalilinuxtutorials.com/ - An excellent tutorial resource specific to Kali Linux.
 
 **Linux Journey** - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for free._
 
