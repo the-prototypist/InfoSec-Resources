@@ -105,7 +105,7 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ### SQL Injection
 
-**SQL Injection Attacks: Explained in 5 Minutes by Paul Browning **- https://youtu.be/FHCTfA9cCXs
+**SQL Injection Attacks: Explained in 5 Minutes by Paul Browning** - https://youtu.be/FHCTfA9cCXs
 
 ## Certifications
 
@@ -167,17 +167,35 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ### Linux 
 
-**Kali Linux Revealed** https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf - This is an entire book used for the Kali Linux Certified Professional certification by Offensive Security.
+**cheat.sh** - https://github.com/chubin/cheat.sh - _A cheatsheet program developed for Linux (and Windows) that covers a vast array of topics, enabling you to reference them straight from the command line._
 
-**Kali Linux Tutorials** https://kalilinuxtutorials.com/ - An excellent tutorial resource specific to Kali Linux.
+**GNU Manuals Online** - https://www.gnu.org/manual/manual.html - _A list of documentation for all official GNU packages._
+
+**How To Secure A Linux Server** - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server - _An excellent guide from @imthenachoman on securing Linux Servers._
+
+**Kali Linux Revealed** - https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf - _This is an entire book used for the Kali Linux Certified Professional certification by Offensive Security._
+
+**Kali Linux Tutorials** - https://kalilinuxtutorials.com/ - _An excellent tutorial resource specific to Kali Linux._
 
 **Linux Journey** - https://linuxjourney.com/ - _Learn the ways of Linux-fu, for free._
+
+**Linux Terminal Cheatsheet** - https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b - _A cheatsheet for useful commands and keyboard shortcuts in the Linux Terminal._
+
+**LSX** - https://github.com/souvikinator/lsx - _A directory navigation tool for Linux from @souvikinator._
+
+**NixCraft** - https://www.cyberciti.biz/ - _A website dedicated to general Linux tips, tricks, and tutorials._
+
+**Red Hat Linux Blog** - https://www.redhat.com/sysadmin/ - _Red Hat's official blog containing Linux tips, tricks, and tutorials._
+
+**The Practical Linux Hardening Guide** - https://github.com/trimstray/the-practical-linux-hardening-guide - _A great guide on hardening Linux in general from @timstray._
 
 ### MacOS
 
 **macOS User Guide** - https://support.apple.com/guide/mac-help/welcome/mac - _The official guide from Apple on macOS._
 
 ### Windows
+
+**cheat.sh** - https://github.com/chubin/cheat.sh - _A cheatsheet program developed for Windows (and Linux) that covers a vast array of topics, enabling you to reference them straight from the command line._
 
 ## Threat Intelligence 
 
@@ -190,7 +208,7 @@ These links lead to various tools you can use once you've learned all you can fr
 
 **Metasploit** - https://www.metasploit.com/ - _The world’s most used penetration testing framework._
 
-**SANS Faculty Free Tools** - https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp - A collection of free tools created by SANS instructors. 
+**SANS Faculty Free Tools** - https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp - _A collection of free tools created by SANS instructors._ 
 
 ## Networking 
 
