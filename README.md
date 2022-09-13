@@ -22,6 +22,8 @@ These are larger collections of resources that help walk you through a specific 
 ## Training & Labs
 These are resources concerning learning objectives and educational resources intend to introduce you to or instruct you within InfoSec.
 
+**AttackIQ Academy** - https://www.academy.attackiq.com/ - _AttackIQ Academy was launched in direct response to the evolution of attackers and their methods becoming more targeted, sophisticated, and automated. They offer free courses in a miraid of cybersec topics._
+
 **Cisco Virtual Academy** - https://www.netacad.com/courses/cybersecurity - _Training from Cisco on cybersecurity, though through the site you can gain access to other topics as well._
 
 **Clark Center** - https://clark.center/home -  _Free cybersecurity curriculum that is primarily video-based or provide online assignments that can be easily integrated into a virtual learning environments._
@@ -59,6 +61,8 @@ These are resources concerning learning objectives and educational resources int
 **Pluralsight** - https://www.pluralsight.com/ - _An online educator focused on tech topics._
 
 **Port Swigger's WebSecurity Academy** - https://portswigger.net/web-security - _Free online web security training from the creators of [Burp Suite](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#vulnerability-scanners)._
+
+**Purple Academy by Picus** - https://academy.picussecurity.com/ - _Purple Academy by Picus provides free cybersec courses around red, blue, and purple team topics. Certificates and CPE credits included!_
 
 **RangeForce** - https://www.rangeforce.com/ - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
 
