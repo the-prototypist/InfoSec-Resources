@@ -46,7 +46,7 @@ These are resources concerning learning objectives and educational resources int
 
 **IBM SkillsBuild** - https://skillsbuild.org/students - _Free courses within cybersecurity and related fields._
 
-**Imperva** - https://www.imperva.com/learn/ - _A large collection of articles on a number of topics important to InfoSec.
+**Imperva** - https://www.imperva.com/learn/ - _A large collection of articles on a number of topics important to InfoSec._
 
 **International Cybersecurity Institute** - https://icsiglobal.com/ - _Certification-based training and bootcamps._
 
