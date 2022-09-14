@@ -185,8 +185,6 @@ These are resources teaching you about the various kinds of attacks you might se
 
 **Linux Terminal Cheatsheet** - https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b - _A cheatsheet for useful commands and keyboard shortcuts in the Linux Terminal._
 
-**LSX** - https://github.com/souvikinator/lsx - _A directory navigation tool for Linux from @souvikinator._
-
 **NixCraft** - https://www.cyberciti.biz/ - _A website dedicated to general Linux tips, tricks, and tutorials._
 
 **Red Hat Linux Blog** - https://www.redhat.com/sysadmin/ - _Red Hat's official blog containing Linux tips, tricks, and tutorials._
@@ -231,6 +229,10 @@ These links lead to various tools you can use once you've learned all you can fr
 **Burp Suite** - https://portswigger.net/burp
 
 **Nessus** - https://www.tenable.com/products/nessus
+
+## Linux Tools
+
+**LSX** - https://github.com/souvikinator/lsx - _A directory navigation tool for Linux from @souvikinator._
 
 # Services 
 
