@@ -105,7 +105,7 @@ These are resources teaching you about the various kinds of attacks you might se
 
 [**BugCrowd University**](https://www.bugcrowd.com/hackers/bugcrowd-university/) - _Free bug hunting resources and methodologies in form of webinars, education and training._
 
-[**Hacker101**](https://www.hacker101.com/) - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
+[**Hacker101**](https://www.hacker101.com/) - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/)._
 
 ### SQL Injection
 
