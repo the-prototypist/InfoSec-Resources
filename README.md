@@ -95,9 +95,9 @@ These are resources concerning learning objectives and educational resources int
 ## Attacks & Attack Frameworks
 These are resources teaching you about the various kinds of attacks you might see or use in cybersecurity.
 
-[**Metasploit Unleashed**] - https://www.offensive-security.com/metasploit-unleashed/ - _The most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book._
+[**Metasploit Unleashed**](https://www.offensive-security.com/metasploit-unleashed/) - _The most complete and in-depth Metasploit guide available, with contributions from the authors of the No Starch Press Metasploit Book._
 
-[**MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training**] - https://attack.mitre.org/resources/training/cti/
+[**MITRE ATT@CK Training: Using ATT&CK for Cyber Threat Intelligence Training**](https://attack.mitre.org/resources/training/cti/)
 
 [**Herpaderping**](https://jxy-s.github.io/herpaderping/) _A Detection Evasion Exploit_
 
@@ -105,7 +105,7 @@ These are resources teaching you about the various kinds of attacks you might se
 
 [**BugCrowd University**](https://www.bugcrowd.com/hackers/bugcrowd-university/) - _Free bug hunting resources and methodologies in form of webinars, education and training._
 
-[**Hacker101**](https://www.hacker101.com/] - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
+[**Hacker101**](https://www.hacker101.com/) - _Hacker101 is a free class for web security. This is primarily bug-bounty focused, from [HackerOne](https://www.hackerone.com/). _
 
 ### SQL Injection
 
@@ -145,7 +145,7 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ## Networking & Cloud
 
-[**The 7 layers of the OSI Model Explained**](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/) [blog] https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
+[**The 7 layers of the OSI Model Explained**](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/) [blog]
 
 [**Types of Digital Certificates**](https://www.keyfactor.com/blog/types-of-digital-certificates/) [blog]
 
@@ -171,11 +171,11 @@ These are resources teaching you about the various kinds of attacks you might se
 
 ### Linux 
 
-[**GNU Manuals Online**](https://www.gnu.org/manual/manual.html_ - _A list of documentation for all official GNU packages._
+[**GNU Manuals Online**](https://www.gnu.org/manual/manual.html) - _A list of documentation for all official GNU packages._
 
 [**How To Secure A Linux Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - _An excellent guide from @imthenachoman on securing Linux Servers._
 
-[**Kali Linux Revealed**] - https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf - _This is an entire book used for the Kali Linux Certified Professional certification by Offensive Security._
+[**Kali Linux Revealed**](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) - _This is an entire book used for the Kali Linux Certified Professional certification by Offensive Security._
 
 [**Kali Linux Tutorials**](https://kalilinuxtutorials.com/) - _An excellent tutorial resource specific to Kali Linux._
 
@@ -226,7 +226,7 @@ These links lead to various tools you can use once you've learned all you can fr
 
 ## Linux Tools
 
-[**Linux Terminal Cheatsheet**] - https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b - _A cheatsheet for useful commands and keyboard shortcuts in the Linux Terminal._
+[**Linux Terminal Cheatsheet**](https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b) - _A cheatsheet for useful commands and keyboard shortcuts in the Linux Terminal._
 
 [**LSX**](https://github.com/souvikinator/lsx) - _A directory navigation tool for Linux from @souvikinator._
 
