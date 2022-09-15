@@ -62,7 +62,7 @@ These are resources concerning learning objectives and educational resources int
 
 [**Port Swigger's WebSecurity Academy**](https://portswigger.net/web-security) - _Free online web security training from the creators of [Burp Suite](https://github.com/neonghost-io/InfoSec-Resources/blob/main/README.md#vulnerability-scanners)._
 
-[**Purple Academy by Picus**](https://academy.picussecurity.com/_ - _Purple Academy by Picus provides free cybersec courses around red, blue, and purple team topics. Certificates and CPE credits included!_
+[**Purple Academy by Picus**](https://academy.picussecurity.com/) - _Purple Academy by Picus provides free cybersec courses around red, blue, and purple team topics. Certificates and CPE credits included!_
 
 [**RangeForce**](https://www.rangeforce.com/) - _RangeForce enables scalable cyber readiness from a single cloud-based platform._
 
