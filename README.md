@@ -42,7 +42,7 @@ These are resources concerning learning objectives and educational resources int
 
 [**Hackxor**](https://hackxor.net/) - _A gamified CTF style learning environment for would-be hackers._
 
-[**IBM Security Learning Academy**](https://www.securitylearningacademy.com/) - _Free technical training for IBM Security products. _
+[**IBM Security Learning Academy**](https://www.securitylearningacademy.com/) - _Free technical training for IBM Security products._
 
 [**IBM SkillsBuild**](https://skillsbuild.org/students) - _Free courses within cybersecurity and related fields._
 
